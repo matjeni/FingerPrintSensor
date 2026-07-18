@@ -2,7 +2,7 @@
 
 > This is a project to enroll or match biometric fingerprint image from a finger print sensor 
 
-#Libraries used
+# Libraries used
 1. R503.hpp
 2. LCD_I2C.h
 3. WiFi.h
@@ -22,7 +22,7 @@
 
 # Wiring Schematic
 
-##I2C LCD
+## I2C LCD
 1. GND - Ground Pin
 2. VNC - 3.3V Pin
 3. SDA - D21 Pin
@@ -32,7 +32,7 @@
 1. Red - D25 Pin
 2. Black - Ground Pin
 
-##503
+## 503
 
 |Pin | Name | Description | Pin Address |
 |----|------|-------------|-------------|
