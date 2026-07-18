@@ -45,7 +45,10 @@
 
 ## 503 hardware connection
 ```
-Via USBtoUART serial interface, the Module may communicate with Micro Controller Unit of 3.3V or 5V power: TD(pin3ofP1) connects with RXD (receiving pin of MCU), RD (pin 4 of P1) connects with TXD(transferringpin of MCU). Should the upper computer (PC) be in RS-232 mode, please add level convertingcircuit, like MAX232, between the Module and PC.
+Via USBtoUART serial interface, the Module may communicate with Micro Controller Unit of 3.3V
+or 5V power: TD(pin3ofP1) connects with RXD (receiving pin of MCU), RD (pin 4 of P1) 
+connects with TXD(transferringpin of MCU). Should the upper computer (PC) be in RS-232 mode, 
+please add level convertingcircuit, like MAX232, between the Module and PC.
 ```
 
 # Todo functionality
