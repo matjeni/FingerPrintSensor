@@ -35,7 +35,7 @@
 ##503
 
 |Pin | Name | Description | Pin Address |
-|----------------------------------------
+|----|------|-------------|-------------|
 | 1 | Power Supply | DC 3.3V | 3.3V |
 | 2 | GND | Signal Ground connected to power ground | GND |
 | 3 | TXD | Data output. TTL Logical level | RX2 |
